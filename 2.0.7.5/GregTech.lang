@@ -657,7 +657,7 @@ languagefile {
     S:Material.europium=铕
     S:Material.eximite=虚空石
     S:Material.fairy=精灵
-    S:Material.fermentedbiomass=发酵过的生物质
+    S:Material.fermentedbiomass=发酵生物质
     S:Material.ferritemixture=铁氧体混合物
     S:Material.ferrosilite=铁辉石
     S:Material.fierysteel=炽热的钢
@@ -3349,7 +3349,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_12733_Index_15=一次运行需要游戏内的27天
     S:TileEntity_DESCRIPTION_12733_Index_16=添加者bartimaeusnek,模组§2BartWorks
     S:TileEntity_DESCRIPTION_12733_Index_2=控制器方块(底层侧中)
-    S:TileEntity_DESCRIPTION_12733_Index_3=角落及其相邻两个方块均为空气方块
+    S:TileEntity_DESCRIPTION_12733_Index_3=角落及其相邻方块均为空气方块
     S:TileEntity_DESCRIPTION_12733_Index_4=一旦搭建完成后,需向输入仓持续通入氦,直到其不再接受为止
     S:TileEntity_DESCRIPTION_12733_Index_5=1+输出仓(任意底层机械方块)
     S:TileEntity_DESCRIPTION_12733_Index_6=1+输入仓(任意顶层机械方块)
@@ -4471,7 +4471,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_15493_Index_3=§9开关电源...
     S:TileEntity_DESCRIPTION_15497_Index_0=§9Tec§1Tech§9: θ运动
     S:TileEntity_DESCRIPTION_15497_Index_1=用于维护多方块
-    S:TileEntity_DESCRIPTION_15497_Index_2=它能自己修好一切.
+    S:TileEntity_DESCRIPTION_15497_Index_2=它能修好一切，除了自己.
     S:TileEntity_DESCRIPTION_15497_Index_3=§b为人民服务!
     S:TileEntity_DESCRIPTION_15498_Index_0=§9Tec§1Tech§9：维度穿越
     S:TileEntity_DESCRIPTION_15498_Index_1=凭空而生的能量
@@ -8224,8 +8224,8 @@ languagefile {
     S:TileEntity_DESCRIPTION_93_Index_3=回收33%的CO2/CO/SO2
     S:TileEntity_DESCRIPTION_941_Index_17=实验型深地钻探平台-MK I 的控制器方块
     S:TileEntity_DESCRIPTION_941_Index_18=大小(宽x高x长) 3x7x3, 控制器方块(正面底中)
-    S:TileEntity_DESCRIPTION_941_Index_19=底层3x1x3深地钻探平台机械方块
-    S:TileEntity_DESCRIPTION_941_Index_20=1x3x1深地钻探平台机械方块支柱 (底层中央)
+    S:TileEntity_DESCRIPTION_941_Index_19=底层3x1x3三元金属机械方块
+    S:TileEntity_DESCRIPTION_941_Index_20=1x3x1三元金属机械方块支柱 (底层中央)
     S:TileEntity_DESCRIPTION_941_Index_21=1x3x1镍铬基合金-690框架(每个支柱的侧面和顶部)(即1x3x1*5)
     S:TileEntity_DESCRIPTION_941_Index_22=2x输入仓 (任意底层机械方块)
     S:TileEntity_DESCRIPTION_941_Index_23=1x输入总线 (放置采矿管道) (任意底层机械方块;非必须)
@@ -8602,7 +8602,7 @@ languagefile {
     S:fluid.ethenone=乙烯酮
     S:fluid.ethylene=乙烯
     S:fluid.ethyltertbutylether=乙基叔丁基醚
-    S:fluid.fermentedbiomass=发酵过的生物质
+    S:fluid.fermentedbiomass=发酵生物质
     S:fluid.fieryblood=炽热的血
     S:fluid.fishoil=鱼油
     S:fluid.fluid.2ethylanthrahydroquinone=2-乙基蒽氢醌
@@ -8926,7 +8926,7 @@ languagefile {
     S:fluid.molten.lithiumfluoride=氟化锂
     S:fluid.molten.longasssuperconductornameforuhvwire=熔融UHV超导粗胚
     S:fluid.molten.longasssuperconductornameforuvwire=熔融UV超导粗胚
-    S:fluid.molten.ludicrite=熔融镥
+    S:fluid.molten.ludicrite=熔融纯镥
     S:fluid.molten.lumium=熔融流明
     S:fluid.molten.lutetium=熔融镥
     S:fluid.molten.magic=熔融魔力
@@ -10838,9 +10838,9 @@ languagefile {
     S:gt.blockmachines.chunkloader.tier.03.name=区块加载机 MK III
     S:gt.blockmachines.crate.tier.01.name=互联板条箱
     S:gt.blockmachines.cyclotron.tier.single.name=COMET-紧凑式回旋加速器
-    S:gt.blockmachines.debug.tt.genny.name=创造能量发生器(调试用)
+    S:gt.blockmachines.debug.tt.genny.name=Debug发电机
     S:gt.blockmachines.debug.tt.maintenance.name=Debug维护仓
-    S:gt.blockmachines.debug.tt.writer.name=创造结构打印器(调试用)
+    S:gt.blockmachines.debug.tt.writer.name=Debug结构打印机
     S:gt.blockmachines.dehp.name=深地热泵
     S:gt.blockmachines.diode12aev.name=线缆二极管 12A EV
     S:gt.blockmachines.diode12ahv.name=线缆二极管 12A HV
@@ -11838,7 +11838,7 @@ languagefile {
     S:gt.blockmachines.multimachine.adv.industrialfreezer.name=凛冰冷冻机
     S:gt.blockmachines.multimachine.adv.vacuumfurnace.name=真空干燥炉
     S:gt.blockmachines.multimachine.airfilter.name=空气过滤器
-    S:gt.blockmachines.multimachine.assemblyline.name=装配线的控制器方块
+    S:gt.blockmachines.multimachine.assemblyline.name=装配线
     S:gt.blockmachines.multimachine.blastfurnace.name=工业高炉
     S:gt.blockmachines.multimachine.boiler.bronze.name=大型青铜锅炉
     S:gt.blockmachines.multimachine.boiler.steel.name=大型钢锅炉
@@ -13356,7 +13356,7 @@ languagefile {
     S:gt.blockores.16907.name=贫瘠%material矿石
     S:gt.blockores.16908.name=贫瘠%material矿石
     S:gt.blockores.16909.name=贫瘠%material矿石
-    S:gt.blockores.1691.name=发酵过的生物质矿石
+    S:gt.blockores.1691.name=发酵生物质矿石
     S:gt.blockores.16910.name=贫瘠%material矿石
     S:gt.blockores.16911.name=贫瘠%material矿石
     S:gt.blockores.16912.name=贫瘠%material矿石
@@ -17517,7 +17517,7 @@ languagefile {
     S:gt.blockores.2688.name=异丙苯矿石
     S:gt.blockores.2689.name=磷酸矿石
     S:gt.blockores.2690.name=%material矿石
-    S:gt.blockores.2691.name=发酵过的生物质矿石
+    S:gt.blockores.2691.name=发酵生物质矿石
     S:gt.blockores.2692.name=盐水矿石
     S:gt.blockores.2693.name=%material矿石
     S:gt.blockores.2694.name=%material矿石
@@ -18180,7 +18180,7 @@ languagefile {
     S:gt.blockores.3689.name=磷酸矿石
     S:gt.blockores.369.name=导电铁矿石
     S:gt.blockores.3690.name=%material矿石
-    S:gt.blockores.3691.name=发酵过的生物质矿石
+    S:gt.blockores.3691.name=发酵生物质矿石
     S:gt.blockores.3692.name=盐水矿石
     S:gt.blockores.3693.name=%material矿石
     S:gt.blockores.3694.name=%material矿石
@@ -18799,7 +18799,7 @@ languagefile {
     S:gt.blockores.4688.name=异丙苯矿石
     S:gt.blockores.4689.name=磷酸矿石
     S:gt.blockores.4690.name=%material矿石
-    S:gt.blockores.4691.name=发酵过的生物质矿石
+    S:gt.blockores.4691.name=发酵生物质矿石
     S:gt.blockores.4692.name=盐水矿石
     S:gt.blockores.4693.name=%material矿石
     S:gt.blockores.4694.name=%material矿石
@@ -19446,7 +19446,7 @@ languagefile {
     S:gt.blockores.5688.name=异丙苯矿石
     S:gt.blockores.5689.name=磷酸矿石
     S:gt.blockores.5690.name=%material矿石
-    S:gt.blockores.5691.name=发酵过的生物质矿石
+    S:gt.blockores.5691.name=发酵生物质矿石
     S:gt.blockores.5692.name=盐水矿石
     S:gt.blockores.5693.name=%material矿石
     S:gt.blockores.5694.name=%material矿石
@@ -20116,7 +20116,7 @@ languagefile {
     S:gt.blockores.6689.name=磷酸矿石
     S:gt.blockores.669.name=%material矿石
     S:gt.blockores.6690.name=%material矿石
-    S:gt.blockores.6691.name=发酵过的生物质矿石
+    S:gt.blockores.6691.name=发酵生物质矿石
     S:gt.blockores.6692.name=盐水矿石
     S:gt.blockores.6693.name=%material矿石
     S:gt.blockores.6694.name=%material矿石
@@ -20296,7 +20296,7 @@ languagefile {
     S:gt.blockores.6907.name=锂云母矿石
     S:gt.blockores.6908.name=菱镁矿矿石
     S:gt.blockores.6909.name=镍黄铁矿矿石
-    S:gt.blockores.691.name=发酵过的生物质矿石
+    S:gt.blockores.691.name=发酵生物质矿石
     S:gt.blockores.6910.name=白钨矿矿石
     S:gt.blockores.6911.name=明矾石矿石
     S:gt.blockores.6912.name=白石棉矿石
@@ -31507,7 +31507,7 @@ languagefile {
     S:gt.metaitem.01.30689.tooltip=H₃PO₄
     S:gt.metaitem.01.3069.name=含杂钐粉
     S:gt.metaitem.01.3069.tooltip=Sm
-    S:gt.metaitem.01.30691.name=发酵过的生物质单元
+    S:gt.metaitem.01.30691.name=发酵生物质单元
     S:gt.metaitem.01.30691.tooltip=
     S:gt.metaitem.01.30692.name=盐水单元
     S:gt.metaitem.01.30692.tooltip=
